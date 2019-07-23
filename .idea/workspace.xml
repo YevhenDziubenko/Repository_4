@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11a28eea-9c52-4c3c-8648-91bc5a812235" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Figure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Figures/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Figures/Figure.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Figures/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Figures/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Figures/Triangle.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Repository_1" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
