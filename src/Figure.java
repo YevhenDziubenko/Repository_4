@@ -1,4 +1,4 @@
 public interface Figure {
 
-    public void showMyName();
+    void showMyName();
 }
