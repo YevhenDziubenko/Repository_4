@@ -1,4 +1,6 @@
-public class Square implements Figure {
+package figures;
+
+public class Square extends Figure {
 
     private String figurename;
 
@@ -9,4 +11,5 @@ public class Square implements Figure {
     public void showMyName() {
         System.out.println(figurename);
     }
+
 }

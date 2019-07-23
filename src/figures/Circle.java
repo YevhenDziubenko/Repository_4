@@ -1,4 +1,6 @@
-public class Circle implements Figure {
+package figures;
+
+public class Circle extends Figure {
 
     private String figurename;
 
@@ -9,4 +11,7 @@ public class Circle implements Figure {
     public void showMyName() {
         System.out.println(figurename);
     }
+
+   @Override
+   public void showMyType() { System.out.println(getClass()); }
 }
